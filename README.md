@@ -5,7 +5,7 @@ lpin -- Line Printer INput
 `lpin` is a simple command that uses the standard ANSI escape codes to initiate a print job, take stdin as input, and then end the print job.
 
 ## Support
-`lpin` is not well supported with most terminal emulators. Two confirmed working terminal emulators are KDE's Konsole and iTerm2.
+`lpin` is not well supported with most terminal emulators. One confirmed working terminal emulator is iTerm2.
 
 ## Usage
 ```sh
